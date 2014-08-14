@@ -1,3 +1,6 @@
+http://math.stackexchange.com/questions/266250/explanation-of-this-image-warping-bulge-filter-algorithm
+
+
 r = Sqrt[(x - .5)^2 + (y - .5)^2]
 a = ArcTan[x - .5, y - .5]
 rn = r^2.5/.5 
